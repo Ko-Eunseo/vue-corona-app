@@ -93,7 +93,7 @@ export default {
 .list {
   list-style: none;
   display: grid;
-  grid-template-columns: repeat (4, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 0.5em;
   margin-top: 1em;
 }
