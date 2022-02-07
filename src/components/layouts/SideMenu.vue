@@ -79,6 +79,7 @@ export default {
 
 <style>
 .tac {
+  width: 250px;
   height: 100%;
 }
 .el-menu {
